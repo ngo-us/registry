@@ -21,6 +21,9 @@ nic	86400	IN	NS	sergi.ns.cloudflare.com.
 ; A Records
 whois	60	IN	A	192.0.2.1
 
+; CNAME Records
+@	3600	IN	A	3.5.130.81
+
 ; TXT Records
 _psl		IN	TXT	https://github.com/publicsuffix/list/pull/1821
 _whois._tcp	86400	IN	TXT	whois.ngo.us
