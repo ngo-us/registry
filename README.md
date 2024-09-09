@@ -79,4 +79,6 @@ Please note that while `.ngo.us` is included in Mozilla's Public Suffix List (PS
 
 If you find this service helpful for your nonprofit and wish to support us in maintaining and running this initiative, please consider [donating](https://ko-fi.com/fugue) to keep the service alive for others in the community!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O110ZK9B)
+
 Thank you for choosing `.ngo.us` for your nonprofit's online presence!
