@@ -1,7 +1,7 @@
 $ORIGIN ngo.us.
 $TTL 86400
 ; SOA Records
-@		IN	SOA	ns2.afraid.org. admin.nic.ngo.us. 2024090801 86400 10800 3600000 3600
+@		IN	SOA	ns2.afraid.org. admin.nic.ngo.us. YYYYMMDDNN 86400 10800 3600000 3600
 
 ; ========== BEGIN REGISTRY SERVICES ==========
 
