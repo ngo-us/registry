@@ -5,7 +5,10 @@ $TTL 86400
 
 ; ========== BEGIN REGISTRY SERVICES ==========
 
-; Delegation records
+; Delegation Records
+@		IN	NS	ns1.alstra.org.
+@		IN	NS	ns2.alstra.org.
+@		IN	NS	ns3.alstra.org.
 @		IN	NS	ns2.afraid.org.
 @		IN	NS	ns1.1984hosting.com.
 
