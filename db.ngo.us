@@ -19,6 +19,7 @@ nic	86400	IN	NS	paloma.ns.cloudflare.com.
 nic	86400	IN	NS	sergi.ns.cloudflare.com.
 
 ; A Records
+@	3600	IN	A	3.5.130.81
 whois	60	IN	A	192.0.2.1
 
 ; TXT Records
