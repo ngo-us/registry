@@ -40,13 +40,24 @@ happycat 86400 IN NS example2.ns.cloudflare.com.
 
 ```
 
-**Notes**:
-- Include **two lines of comments** starting with the `;` symbol.
-  - First line: Your organization's full name.
-  - Second line: Your organization's contact email address (must be an organizational or team-based email, not a personal one). Ensure that the email’s domain is **not** the same as the one you are applying for.
+**Key points to comply:**
+
+1. **Two comment lines** are required at the top of your block:
+   - The first line should be your organization's full name.
+   - The second line should be your organization's contact email (use an organizational or team-based email, not a personal one). Ensure the domain of the email address is **not** the same as the `.ngo.us` domain you're applying for.
+
+2. **Format and order**:
+   - Ensure the domain blocks are ordered alphabetically by your organization's name.
+   - If you're applying for multiple domains under the same organization, list them alphabetically.
+
+3. **Nameserver (NS) records**:
+   - You must include **at least two nameservers (NS)** for each domain.
+   - Use a Time to Live (TTL) value of `86400` (24 hours).
+
+After completing the edit, follow the remaining steps to commit, push, and create a pull request as outlined in the PR template. Make sure all entries follow the correct alphabetical order to ensure smooth processing.
 
 ### 3. Submit a Pull Request (PR)
-Commit and push your changes to your forked repository, then create a pull request (PR) to our main repository: [https://github.com/open-domains/register](https://github.com/open-domains/register). 
+Commit and push your changes to your forked repository, then create a pull request (PR) to this repository: [https://github.com/open-domains/register](https://github.com/open-domains/register). 
 
 In the PR body, provide the details about your nonprofit, including verifiable social media links:
 
@@ -66,6 +77,6 @@ Please note that while `.ngo.us` is included in Mozilla's Public Suffix List (PS
 
 ## Donations
 
-If you find this service helpful for your nonprofit and wish to support us in maintaining and running this initiative, please consider donating to keep the service alive for others in the community!
+If you find this service helpful for your nonprofit and wish to support us in maintaining and running this initiative, please consider [donating](https://ko-fi.com/fugue) to keep the service alive for others in the community!
 
 Thank you for choosing `.ngo.us` for your nonprofit's online presence!
