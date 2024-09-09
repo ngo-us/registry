@@ -24,4 +24,13 @@ jobs:
         run: |
           ZONE_FILE="db.ngo.us"
           ZONE_NAME="ngo.us"
-          named-checkzone $ZONE_NAME $ZONE_FILE || { echo "Zone file validation failed!"; exit 1; }
+          TEMP_ZONE_FILE="temp_$ZONE_FILE"
+
+          # Step 3a: Replace placeholder 'YYYYMMDDNN' with a dummy value in a temporary file
+          sed 's/YYYYMMDDNN/1900010101/g' $ZONE_FILE > $TEMP_ZONE_FILE
+          
+          # Step 3b: Run named-checkzone to validate the modified zone file
+          named-checkzone $ZONE_NAME $TEMP_ZONE_FILE || { echo "Zone file validation failed!"; exit 1; }
+
+          # Clean up
+          rm $TEMP_ZONE_FILE
