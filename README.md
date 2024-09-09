@@ -1,8 +1,8 @@
-# Welcome to the `.ngo.us` Domain Registry
+# Welcome to the `.ngo.us` Subdomain Registry
 
 ![image](https://github.com/user-attachments/assets/fa5569d1-1c39-4b4e-b11e-6cafb4929bbd)
 
-Welcome to the `.ngo.us` domain registry, a platform created to support nonprofit organizations and projects around the globe. We recognize that domain registration costs have increased significantly, which can be a challenge for non-commercial entities working to make a positive impact. Our mission is to eliminate this financial barrier by offering free domain registration services for organizations that are unaffiliated with governmental bodies and operate on a non-commercial basis.
+Welcome to the `.ngo.us` subdomain registry, a platform created to support nonprofit organizations and projects around the globe. We recognize that domain registration costs have increased significantly, which can be a challenge for non-commercial entities working to make a positive impact. Our mission is to eliminate this financial barrier by offering free subdomain registration services for organizations that are unaffiliated with governmental bodies and operate on a non-commercial basis.
 
 ## Features
 
@@ -13,10 +13,10 @@ The `.ngo.us` registry exclusively supports nonprofit, nongovernmental organizat
 Our verification process is simple and straightforward. We rely on your organization’s existing online presence for quick approval and evidence-based verification.
 
 ### Free Renewal, Forever
-Once your domain is approved, you’ll enjoy lifetime domain ownership with no registration or renewal fees.
+Once your subdomain is approved, you’ll enjoy the right to use the subdomain for life, with no registration or renewal fees.
 
 ### Included in Mozilla PSL
-Our domains are part of the [Mozilla Public Suffix List (PSL)](https://publicsuffix.org), which enhances security by ensuring subdomains are treated independently by browsers, much like `.co.uk`. However, please note that `.ngo.us` is **not** an ICANN-accredited TLD. See the disclaimer below for more details.
+Our domain is part of the [Mozilla Public Suffix List (PSL)](https://publicsuffix.org), which enhances security by ensuring subdomains are treated independently by browsers, much like `.co.uk`. However, please note that `.ngo.us` is **not** an ICANN-accredited TLD. See the disclaimer below for more details.
 
 ## Eligibility Requirements
 
@@ -57,7 +57,7 @@ happycat 86400 IN NS example2.ns.cloudflare.com.
 After completing the edit, follow the remaining steps to commit, push, and create a pull request as outlined in the PR template. Make sure all entries follow the correct alphabetical order to ensure smooth processing.
 
 ### 3. Submit a Pull Request (PR)
-Commit and push your changes to your forked repository, then create a pull request (PR) to this repository: [https://github.com/open-domains/register](https://github.com/open-domains/register). 
+Commit and push your changes to your forked repository, then create a pull request (PR) to this repository. 
 
 In the PR body, provide the details about your nonprofit, including verifiable social media links:
 
@@ -70,6 +70,42 @@ In the PR body, provide the details about your nonprofit, including verifiable s
 Once your pull request is submitted, make sure all automatic checks pass. PRs with failing checks will be ignored. Monitor the PR in case there are any requests for changes, such as corrections to syntax errors in your zone file.
 
 After the PR is reviewed and merged, please allow up to 48 hours for the changes to propagate.
+
+## Modify Existing Registry Records
+
+If you need to update or modify the DNS records of your existing `.ngo.us` domain, follow the steps below:
+
+1. **Fork the Repository**: 
+   Use the same GitHub account you initially used to register your domain. Fork this repository if you haven't already, or pull the latest changes from the main repo into your existing fork.
+
+2. **Edit the `db.ngo.us` Zone File**:
+   In your forked repository, make the necessary changes to your domain's DNS records within the `db.ngo.us` zone file. Ensure that any changes follow the correct format, including the use of proper TTL values and nameservers.
+
+3. **Commit the Changes**:
+   - Ensure that your commit is **signed**. You can do this by using `git commit -S` if you have set up GPG signing on your GitHub account.
+   - In the commit message, clearly describe the changes you made (e.g., "Updated NS records for happycat.ngo.us").
+
+4. **Submit a New Pull Request (PR)**:
+   Push the changes to your fork and create a new pull request in the main repository. Be sure to provide all relevant details in the PR description, just as you did when you initially applied.
+
+5. **Monitor and Review**:
+   Ensure all checks pass and keep an eye on the PR for any requests for changes or updates from the maintainers. After approval, the changes will be merged, and your updates will propagate within 48 hours.
+
+## Registrant Obligations
+
+The ongoing trust and integrity of the `.ngo.us` registry depend on the accuracy and activity of its entries. By submitting a pull request to register a domain, the registrant agrees to the following obligations:
+
+- **Maintain Eligibility**: The registrant commits to maintaining the eligibility of their organization and complying with the [terms of service](https://nic.ngo.us/terms-of-service/) at all times.
+  
+- **DNS Record Maintenance**: The registrant acknowledges their responsibility to regularly review and update their DNS records. This includes ensuring that all registered domains resolve correctly and that associated websites remain active.
+
+- **Domain Removal**: Entries may be removed from the registry if:
+  - The domain does not resolve in DNS.
+  - The associated website becomes inactive.
+  - The email address provided becomes unreachable.
+  - Terms of service violation.
+
+- **Up-to-date Contact Information**: Registrants must ensure that the email address provided in their section is always current and reachable. It is their responsibility to update this email address as necessary to continue receiving important communications and notices from the registry.
 
 ## Disclaimer
 
