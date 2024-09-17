@@ -65,13 +65,11 @@ health	86400	IN	NS	ns4.he.net.
 
 ; YMHC Charitable Foundation
 ; Submitted by ITS <its@ymhc.ngo>
-schoolexclusionstories	86400	IN	NS	dns1.wndp.pt.
-schoolexclusionstories	86400	IN	NS	dns2.wndp.pt.
-schoolphobia	86400	IN	NS	ns0.1984.is.
-schoolphobia	86400	IN	NS	ns1.1984.is.
-schoolphobia	86400	IN	NS	ns1.1984hosting.com.
-schoolphobia	86400	IN	NS	ns2.1984.is.
-ymhc	86400	IN	NS	ns1.desec.io.
-ymhc	86400	IN	NS	ns2.desec.org.
+schoolexclusionstories	86400	IN	NS	achiel.ns.cloudflare.com.
+schoolexclusionstories	86400	IN	NS	dolly.ns.cloudflare.com.
+schoolphobia	86400	IN	NS	achiel.ns.cloudflare.com.
+schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
+ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
+ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
