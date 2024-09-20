@@ -72,4 +72,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; zam income generation
+; Submitted by ITS <zam@zam.us.kg>
+zam 86400 IN NS ethan.ns.cloudflare.com.
+zam 86400 IN NS novalee.ns.cloudflare.com.
+
+
 ; ========== END ORGANIZATIONS ================
