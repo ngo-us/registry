@@ -20,9 +20,17 @@ Our domain is part of the [Mozilla Public Suffix List (PSL)](https://publicsuffi
 
 ## Eligibility Requirements
 
-- **Nonprofit Organizations**: Any existing nonprofit organization, project, or initiative is eligible to apply. There is no need to be incorporated or officially registered with a government body.
-- **Public Online Presence**: Your organization must have an existing, publicly visible online presence (e.g., a social media profile) that provides sufficient information about your history and activities.
-- **Legal and Good Faith**: Your organization must meet the requirements specified in our terms of service, including operating legally and in good faith.
+### 1. Nonprofit Organizations
+
+To be eligible for a ngo.us subdomain, applicants must be established nonprofit organizations, projects, or initiatives with a long-term focus and structured operations. While formal incorporation or registration with a government body is not required, organizations must demonstrate that they are organized in a meaningful and sustainable way. This includes having defined goals, a clear mission, and ongoing activities that align with nonprofit principles. Please note that personal projects, temporary or short-term initiatives, seasonal efforts, sandbox environments, testing projects, or small-scale labs do not qualify for a ngo.us subdomain. We seek to support organizations that show lasting commitment and measurable impact in their respective fields.
+
+### 2. Public Online Presence
+
+Applicants must maintain a visible, publicly accessible online presence that accurately reflects their organization’s work and mission. This can include a website, social media profile, or other online platforms that provide comprehensive and up-to-date information about the organization’s history, activities, and objectives. For social media profiles, the account must have at least 20 followers and a minimum of 20 posts, demonstrating ongoing engagement with the public. The account should not be brand new or created solely for the purpose of applying for a ngo.us subdomain. Similarly, if you submit a website or other type of online presence, it must be verifiable, trustworthy, and demonstrate the organization's sustained activities, not just created to meet the application criteria. Your online presence is an important factor in establishing your organization’s legitimacy and credibility. It should clearly demonstrate your long-term commitment to your mission and ongoing public engagement.
+
+### 3. Legal and Good Faith
+
+All applicants must comply with the legal and ethical standards outlined in our Terms of Service. Organizations must operate within legal frameworks, adhere to nonprofit governance practices, and demonstrate good faith in their activities. This includes conducting your operations ethically, promoting positive social, environmental, or humanitarian causes, and using the ngo.us subdomain in a manner that aligns with these values. Your application should reflect your intent to act lawfully and contribute to the common good.
 
 ## Application Process
 
