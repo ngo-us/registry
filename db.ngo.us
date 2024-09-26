@@ -47,10 +47,10 @@ pics	86400	IN	NS	dns3.p08.nsone.net.
 
 ; PAUSE International
 ; Submitted by PAUSE International <pauseint@proton.me>
-pause	86400	IN	NS	dns1.wndp.pt.
-pause	86400	IN	NS	dns2.wndp.pt.
-pauseint	86400	IN	NS	dns1.wndp.pt.
-pauseint	86400	IN	NS	dns2.wndp.pt.
+pause	86400	IN	NS	ns5.private-nameserver.net.
+pause	86400	IN	NS	ns6.private-nameserver.net.
+pauseint	86400	IN	NS	ns5.private-nameserver.net.
+pauseint	86400	IN	NS	ns6.private-nameserver.net.
 
 ; Project CN-Archive
 ; Submitted by WPD <wpdaily.websites@skiff.com>
