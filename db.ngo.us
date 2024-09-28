@@ -72,4 +72,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; FannyHost Corporation
+; Submitted by William Felix - CEO <fannyhost.corp@proton.me>
+fnh	86400	IN	NS	chad.ns.cloudflare.com.
+fnh	86400	IN	NS	heather.ns.cloudflare.com.
+fannyhost	86400	IN	NS	chad.ns.cloudflare.com.
+fannyhost	86400	IN	NS	heather.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
