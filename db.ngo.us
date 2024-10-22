@@ -72,4 +72,14 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+
+; China cat Charitable Foundation
+; Submitted by Cat Relief Department <longwanglaomu@gmail.com>
+chinacat	86400	IN	NS	daisy.ns.cloudflare.com.
+chinacat	86400	IN	NS	robert.ns.cloudflare.com.
+catroom	86400	IN	NS	daisy.ns.cloudflare.com.
+catroom	86400	IN	NS	robert.ns.cloudflare.com.
+lovecates	86400	IN	NS	daisy.ns.cloudflare.com.
+lovecates	86400	IN	NS	robert.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
