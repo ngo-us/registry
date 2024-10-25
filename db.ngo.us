@@ -33,6 +33,13 @@ _whois._tcp	3600	IN	SRV	0 0 43 whois.ngo.us.
 
 ; ========== BEGIN ORGANIZATIONS ==============
 
+; Aihe Stray Animal Home
+; Submitted by customer service team XERA <service@aihe.daemon.asia>
+aihe 86400 IN NS emerie.ns.cloudflare.com.
+aihe 86400 IN NS ignacio.ns.cloudflare.com.
+xera 86400 IN NS dave.ns.cloudflare.com.
+xera 86400 IN NS irena.ns.cloudflare.com.
+
 ; Lively Souls Foundation
 liveleak	86400	IN	NS	dns1.p08.nsone.net.
 liveleak	86400	IN	NS	dns2.p08.nsone.net.
