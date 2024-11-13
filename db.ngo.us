@@ -59,6 +59,11 @@ pause	86400	IN	NS	ns6.private-nameserver.net.
 pauseint	86400	IN	NS	ns5.private-nameserver.net.
 pauseint	86400	IN	NS	ns6.private-nameserver.net.
 
+; Excel Community
+; Submitted by team <overtonmarke@gmail.com>
+excel 86400 IN NS rob.ns.cloudflare.com.
+excel 86400 IN NS tina.ns.cloudflare.com.
+
 ; Project CN-Archive
 ; Submitted by WPD <wpdaily.websites@skiff.com>
 ngocn-news-archive	86400	IN	NS	dns1.freehostia.com.
