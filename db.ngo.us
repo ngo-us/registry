@@ -79,4 +79,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; ssangyongsports
+; Submitted by Peter <peter@ssangyongsports.eu.org>
+ssangyongsports	86400	IN	NS	lennon.ns.cloudflare.com.
+ssangyongsports	86400	IN	NS	serenity.ns.cloudflare.com.
+sysport	86400	IN	NS	lennon.ns.cloudflare.com.
+sysport	86400	IN	NS	serenity.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
