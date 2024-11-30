@@ -15,8 +15,8 @@ $TTL 86400
 ; NS Records
 client		IN	NS	paloma.ns.cloudflare.com.
 client		IN	NS	sergi.ns.cloudflare.com.
-nic	86400	IN	NS	paloma.ns.cloudflare.com.
-nic	86400	IN	NS	sergi.ns.cloudflare.com.
+nic	86400	IN	NS	dave.ns.cloudflare.com.
+nic	86400	IN	NS	ullis.ns.cloudflare.com.
 
 ; A Records
 @	3600	IN	A	3.5.130.81
@@ -70,8 +70,8 @@ health	86400	IN	NS	ns2.he.net.
 health	86400	IN	NS	ns3.he.net.
 health	86400	IN	NS	ns4.he.net.
 
-; YMHC Charitable Foundation
-; Submitted by ITS <its@ymhc.ngo>
+; Burmese Charity
+; Submitted by ITS <thazaw.thz@gmail.com>
 schoolexclusionstories	86400	IN	NS	achiel.ns.cloudflare.com.
 schoolexclusionstories	86400	IN	NS	dolly.ns.cloudflare.com.
 schoolphobia	86400	IN	NS	achiel.ns.cloudflare.com.
