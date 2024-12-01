@@ -71,7 +71,7 @@ health	86400	IN	NS	ns3.he.net.
 health	86400	IN	NS	ns4.he.net.
 
 ; YMHC Charitable Foundation
-; Submitted by ITS <its@ymhc.ngo>
+; Submitted by burmeselofi <thzaw@outlook.com>
 schoolexclusionstories	86400	IN	NS	achiel.ns.cloudflare.com.
 schoolexclusionstories	86400	IN	NS	dolly.ns.cloudflare.com.
 schoolphobia	86400	IN	NS	achiel.ns.cloudflare.com.
