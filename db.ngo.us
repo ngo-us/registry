@@ -6,8 +6,8 @@ $TTL 86400
 ; ========== BEGIN REGISTRY SERVICES ==========
 
 ; Delegation Records
-@		IN	NS	ns1.alstra.org.
-@		IN	NS	ns2.alstra.org.
+@		IN	NS	ns1.gcorelabs.net.
+@		IN	NS	ns2.gcdn.services.
 @		IN	NS	ns3.alstra.org.
 @		IN	NS	ns2.afraid.org.
 @		IN	NS	ns1.1984hosting.com.
@@ -19,8 +19,8 @@ nic	86400	IN	NS	paloma.ns.cloudflare.com.
 nic	86400	IN	NS	sergi.ns.cloudflare.com.
 
 ; A Records
-@	3600	IN	A	3.5.130.81
-whois	60	IN	A	192.0.2.1
+@	3600	IN	76.76.21.123
+whois	60	IN	A	76.76.21.164
 
 ; TXT Records
 _psl		IN	TXT	https://github.com/publicsuffix/list/pull/1821
