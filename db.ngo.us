@@ -84,4 +84,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+
+; Happy Cat Foundation
+; Submitted by coder karaokepupppydog@gmail.com
+dogetether 86400 IN NS lennon.ns.cloudflare.com
+dogetether 86400 IN NS rosalie.ns.cloudflare.com
 ; ========== END ORGANIZATIONS ================
