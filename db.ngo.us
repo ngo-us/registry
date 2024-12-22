@@ -35,8 +35,8 @@ _whois._tcp	3600	IN	SRV	0 0 43 whois.ngo.us.
 
 ; MrChanMP Homeweb
 ; Submitted by Admin Team <cmp@tutanota.de>
-mrchanmp    86400 IN  NS  ns1.hstn.me.
-mrchanmp    86400 IN  NS  ns2.hstn.me.
+mrchanmp    86400 IN  NS  itzel.ns.cloudflare.com.
+mrchanmp    86400 IN  NS  peyton.ns.cloudflare.com.
 
 ; Aihe Stray Animal Home
 ; Submitted by customer service team XERA <service@aihe.daemon.asia>
