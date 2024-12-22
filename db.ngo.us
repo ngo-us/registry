@@ -33,12 +33,10 @@ _whois._tcp	3600	IN	SRV	0 0 43 whois.ngo.us.
 
 ; ========== BEGIN ORGANIZATIONS ==============
 
-; DrLynn HomeWeb
-; Submitted by Drlynn HomeWeb Org <cmp@tutanota.de>
-drlynn      86400 IN  NS  ns1.zonomi.com.
-drlynn      86400 IN  NS  ns2.zonomi.com.
-drchanmp    86400 IN  NS  ns4.zonomi.com.
-drchanmp    86400 IN  NS  ns5.zonomi.com.
+; MrChanMP Homeweb
+; Submitted by Admin Team <cmp@tutanota.de>
+mrchanmp    86400 IN  NS  ns1.hstn.me.
+mrchanmp    86400 IN  NS  ns2.hstn.me.
 
 ; Aihe Stray Animal Home
 ; Submitted by customer service team XERA <service@aihe.daemon.asia>
