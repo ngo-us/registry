@@ -22,7 +22,7 @@ jobs:
       # Step 3: Run named-checkzone to validate the zone file
       - name: Validate Zone File
         run: |
-          ZONE_FILE="db.ngo.us"
+          ZONE_FILE="mrchanmp.ngo.us"
           ZONE_NAME="ngo.us"
           TEMP_ZONE_FILE="temp_$ZONE_FILE"
 
