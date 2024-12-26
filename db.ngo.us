@@ -85,6 +85,6 @@ ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 ; van dong
 ; Submitted by networking team <mrnvdong@gmail.com>
-vandong 86400 IN NS achiel.ns.cloudflare.com.
-vandong 86400 IN NS dolly.ns.cloudflare.com.
+vandong 86400 IN NS beth.ns.cloudflare.com.
+vandong 86400 IN NS dale.ns.cloudflare.com.
 ; ========== END ORGANIZATIONS ================
