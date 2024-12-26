@@ -84,4 +84,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Leidun's Personal Blog Site
+; Submitted by Leidun <hohouman@outlook.com>
+leidun 86400	IN	NS	abdullah.ns.cloudflare.com.
+leidun 86400	IN	NS	maeve.ns.cloudflare.com.
+houman 86400	IN	NS	abdullah.ns.cloudflare.com.
+houman 86400	IN	NS	maeve.ns.cloudflare.com.
 ; ========== END ORGANIZATIONS ================
