@@ -46,6 +46,8 @@ fsaro 86400 IN NS drake.ns.cloudflare.com.
 fsaro 86400 IN NS serenity.ns.cloudflare.com.
 fsao 86400 IN NS drake.ns.cloudflare.com.
 fsao 86400 IN NS serenity.ns.cloudflare.com.
+fsarorg 86400 IN NS drake.ns.cloudflare.com.
+fsarorg 86400 IN NS serenity.ns.cloudflare.com.
 
 ; Lively Souls Foundation
 liveleak	86400	IN	NS	dns1.p08.nsone.net.
