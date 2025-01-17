@@ -84,4 +84,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Minitor self hosted
+; Submitted by Minitor <me@minitor.eu.org>
+happycat 86400 IN NS stevie.ns.cloudflare.com.
+happycat 86400 IN NS randall.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
