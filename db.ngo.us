@@ -94,4 +94,8 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; The Sea eagle eagle strikes the long air net
+; Submitted by ANXUN <mail@hyyjckwang.us.kg>
+Theeaglestrikesthelongskynet 86400 IN NS carol.ns.cloudflare.com.
+Theeaglestrikesthelongskynet 86400 IN NS example2.kareem.ns.cloudflare.com.
 ; ========== END ORGANIZATIONS ================
