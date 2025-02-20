@@ -94,4 +94,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Bitcoin Rates 
+; Submitted by Priyanshu <cloudypriyanshu@gmail.com>
+bitcoin 86400 IN NS ns1.vercel-dns.com.
+bitcoin 86400 IN NS ns2.vercel-dns.com.
+
+
 ; ========== END ORGANIZATIONS ================
