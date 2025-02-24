@@ -80,6 +80,16 @@ health	86400	IN	NS	ns2.he.net.
 health	86400	IN	NS	ns3.he.net.
 health	86400	IN	NS	ns4.he.net.
 
+; LykCloud
+; Submitted by LegendYt4k <lykcloud@dr.com>
+join 86400 IN bill.ns.cloudflare.com
+join 86400 IN grannbo.ns.cloudflare.com
+
+; LykCloud
+; Submitted by LegendYt4k <lykcloud@dr.com>
+i-am 86400 IN bill.ns.cloudflare.com
+i-am 86400 IN grannbo.ns.cloudflare.com
+
 ; ssangyongsports
 ; Submitted by Peter <peter@ssangyongsports.eu.org>
 ssangyongsports	86400	IN	NS	lennon.ns.cloudflare.com.
