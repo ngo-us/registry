@@ -94,4 +94,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; lykcloud
+; Submitted by LykCloud <lykcloud@dr.com>
+picgenv	86400	IN	NS	bill.ns.cloudflare.com.
+picgenv	86400	IN	NS	grannbo.ns.cloudflare.com.
+lykcloud 86400	IN	NS	bill.ns.cloudflare.com.
+lykcloud 86400	IN	NS	grannbo.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
