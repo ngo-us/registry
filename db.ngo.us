@@ -94,4 +94,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; IOT Foundation
+; Submitted by networking team <hafachada@tutamail.com>
+hafachada 86400 IN NS hafachada.ns.cloudflare.com.
+hafachada 86400 IN NS hafachada2.ns.cloudflare.com.
+
+
 ; ========== END ORGANIZATIONS ================
