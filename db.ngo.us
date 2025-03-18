@@ -94,4 +94,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; kdwz Cat Foundation
+; Submitted by networking team <kdwz@proton.me>
+kdwz 86400 IN NS courtney.ns.cloudflare.com.
+kdwz 86400 IN NS elliot.ns.cloudflare.com.
+
+
 ; ========== END ORGANIZATIONS ================
