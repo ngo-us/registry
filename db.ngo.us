@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; NXPPRU Knowledge And Creativity Free Platform
+; Submitted by NXPPRU <nanjx@nxppru.fr.nf>
+nxppru 86400 IN NS austin.ns.cloudflare.com.
+nxppru 86400 IN NS desi.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
