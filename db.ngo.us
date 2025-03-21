@@ -94,4 +94,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; KAKA International
+; Submitted by Peter <kaka@nok.pp.ua>
+kaka	86400	IN	NS	jean.ns.cloudflare.com.
+kaka	86400	IN	NS	vin.ns.cloudflare.com.
+deep	86400	IN	NS	jean.ns.cloudflare.com.
+deep	86400	IN	NS	vin.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
