@@ -85,6 +85,11 @@ health	86400	IN	NS	ns4.he.net.
 ssangyongsports	86400	IN	NS	lennon.ns.cloudflare.com.
 ssangyongsports	86400	IN	NS	serenity.ns.cloudflare.com.
 
+; Taoist Ching Chung Primary School
+; Submitted by networking team <hesam@tcc.edu.kg>
+zsam 86400 IN NS angela.ns.cloudflare.com.
+zsam 86400 IN NS lloyd.ns.cloudflare.com.
+
 ; YMHC Charitable Foundation
 ; Submitted by ITS <its@ymhc.ngo>
 schoolexclusionstories	86400	IN	NS	achiel.ns.cloudflare.com.
