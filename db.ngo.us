@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Surge Networks Inc
+; Submitted by networking team <geekfeng.support@iCloud.com>
+happycat 86400 IN NS fay.ns.cloudflare.com
+happycat 86400 IN NS patrick.ns.cloudflare.com
+
 ; ========== END ORGANIZATIONS ================
