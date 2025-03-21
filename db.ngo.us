@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; IP Info
+; Submitted by Amy <admin@cnic.eu.org>
+ip 86400 IN NS anita.ns.cloudflare.com.
+ip 86400 IN NS robert.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
