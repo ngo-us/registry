@@ -80,6 +80,11 @@ health	86400	IN	NS	ns2.he.net.
 health	86400	IN	NS	ns3.he.net.
 health	86400	IN	NS	ns4.he.net.
 
+; Henan University Gay Men's Association
+; Submitted by ITS <admin@hndx.eu.org>
+henu 86400 IN NS damien.ns.cloudflare.com.
+henu 86400 IN NS selah.ns.cloudflare.com.
+
 ; ssangyongsports
 ; Submitted by Peter <peter@ssangyongsports.eu.org>
 ssangyongsports	86400	IN	NS	lennon.ns.cloudflare.com.
