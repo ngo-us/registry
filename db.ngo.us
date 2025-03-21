@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+;Yucai 168 Secondary School Campus Mental Health Center
+Submitted by Peter <i168@cock.li>
+nice	86400	IN	NS	kolton.ns.cloudflare.com.
+nice	86400	IN	NS	peaches.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
