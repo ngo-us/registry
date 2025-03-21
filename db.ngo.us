@@ -94,4 +94,8 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; jerrynpc Cat Foundation
+; Submitted by networking team <jerrynpc@gmail.com>
+checkin 86400 IN NS meilani.ns.cloudflare.com.
+checkin 86400 IN NS nick.ns.cloudflare.com.
 ; ========== END ORGANIZATIONS ================
