@@ -1,4 +1,4 @@
-; lusky Cat Foundation
+; lusky Foundation
 ; Submitted by networking team <lusky@linux.do>
 lusky 86400 IN NS colin.ns.cloudflare.com.
 lusky 86400 IN NS ligia.ns.cloudflare.com.
