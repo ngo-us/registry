@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Onorg Cookings
+; Submitted by Peter <mike@onorg.eu.org>
+onorgcookings	86400	IN	NS	michael.ns.cloudflare.com.
+onorgcookings	86400	IN	NS	simone.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
