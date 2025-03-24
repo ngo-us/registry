@@ -94,4 +94,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Mohammadpur Autos
+; Submitted by Mohammadpur Autos <ghostfxrhn@gmail.com>
+mohammadpurautos	86400	IN	NS	dns1.serv00.com.
+mohammadpurautos	86400	IN	NS	dns2.serv00.com.
+
+
 ; ========== END ORGANIZATIONS ================
