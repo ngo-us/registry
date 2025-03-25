@@ -95,3 +95,6 @@ ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
+
+nlep.ngo.us.  IN  NS  dns1.serv00.com.
+nlep.ngo.us.  IN  NS  dns2.serv00.com.
