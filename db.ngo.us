@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Scarlet Stars Esports
+; Submitted by scarletstars <scarletstars@doon.eu.org>
+ss	86400	IN	NS	brett.ns.cloudflare.com.
+ss	86400	IN	NS	gabriella.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
