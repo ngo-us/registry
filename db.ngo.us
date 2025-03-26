@@ -94,4 +94,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; JIShU Media Public welfare project
+; Submitted by Technical team <zone@vvzone.me>
+vzone 86400 IN NS princess.ns.cloudflare.com.
+vzone 86400 IN NS rodrigo.ns.cloudflare.com.
+jishu 86400 IN NS princess.ns.cloudflare.com.
+jishu 86400 IN NS rodrigo.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
