@@ -94,4 +94,8 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; 0x00 Foundation
+lol 86400 IN NS desi.ns.cloudflare.com.
+lol 86400 IN NS ram.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
