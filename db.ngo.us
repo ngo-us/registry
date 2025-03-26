@@ -95,3 +95,5 @@ ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
+
+levko.ngo.us. 3600 IN A 56.65.140.223
