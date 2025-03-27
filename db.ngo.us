@@ -96,5 +96,5 @@ ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
 
-nlep.ngo.us.  IN  NS  dns1.serv00.com.
-nlep.ngo.us.  IN  NS  dns2.serv00.com.
+nlep.ngo.us. 86400 IN NS savanna.ns.cloudflare.com.
+nlep.ngo.us. 86400 IN NS trey.ns.cloudflare.com.
