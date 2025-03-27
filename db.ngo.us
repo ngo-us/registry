@@ -96,5 +96,7 @@ ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
 
+; N.L.E-Telephone Number Query System
+; Submitted by nlep <love.pulga@gmail.ocm>
 nlep.ngo.us. 86400 IN NS savanna.ns.cloudflare.com.
 nlep.ngo.us. 86400 IN NS trey.ns.cloudflare.com.
