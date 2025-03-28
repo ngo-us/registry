@@ -94,4 +94,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Artchive
+; Submitted by Moch Dimas Almahtar <dimasalmactar12@gmail.com>
+artchive	86400	IN	NS	ns1.hostry.com.
+artchive	86400	IN	NS	ns2.hostry.com.
+artchive	86400	IN	NS	ns3.hostry.com.
+artchive	86400	IN	NS	ns4.hostry.com.
 ; ========== END ORGANIZATIONS ================
