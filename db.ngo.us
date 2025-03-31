@@ -74,6 +74,11 @@ pauseint	86400	IN	NS	ns6.private-nameserver.net.
 ngocn-news-archive	86400	IN	NS	dns1.freehostia.com.
 ngocn-news-archive	86400	IN	NS	dns2.freehostia.com.
 
+; HuyChess Match Base
+; Submitted by HuyChess <huychess@proton.me>
+huychess 86400 IN NS ganz.ns.cloudflare.com.
+huychess 86400 IN NS kristin.ns.cloudflare.com.
+
 ; Sea Food Distribution
 health	86400	IN	NS	ns1.he.net.
 health	86400	IN	NS	ns2.he.net.
