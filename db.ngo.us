@@ -50,6 +50,11 @@ fsao 86400 IN NS serenity.ns.cloudflare.com.
 fsarorg 86400 IN NS drake.ns.cloudflare.com.
 fsarorg 86400 IN NS serenity.ns.cloudflare.com.
 
+; HuyChess Match Base
+; Submitted by HuyChess <huychess@proton.me>
+huychess 86400 IN NS ganz.ns.cloudflare.com.
+huychess 86400 IN NS kristin.ns.cloudflare.com.
+
 ; Lively Souls Foundation
 liveleak	86400	IN	NS	dns1.p08.nsone.net.
 liveleak	86400	IN	NS	dns2.p08.nsone.net.
@@ -73,11 +78,6 @@ pauseint	86400	IN	NS	ns6.private-nameserver.net.
 ; Submitted by WPD <wpdaily.websites@skiff.com>
 ngocn-news-archive	86400	IN	NS	dns1.freehostia.com.
 ngocn-news-archive	86400	IN	NS	dns2.freehostia.com.
-
-; HuyChess Match Base
-; Submitted by HuyChess <huychess@proton.me>
-huychess 86400 IN NS ganz.ns.cloudflare.com.
-huychess 86400 IN NS kristin.ns.cloudflare.com.
 
 ; Sea Food Distribution
 health	86400	IN	NS	ns1.he.net.
