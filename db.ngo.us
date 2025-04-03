@@ -5,6 +5,11 @@ $TTL 86400
 
 ; ========== BEGIN REGISTRY SERVICES ==========
 
+; Ares Win0318 Foundation
+; Submitted by networking team <areswin0318@gmail.com>
+areswin0318 86400 IN NS gwen.ns.cloudflare.com.
+areswin0318 86400 IN NS margo.ns.cloudflare.com.
+
 ; Delegation Records
 @		IN	NS	ns-global.kjsl.com.
 @		IN	NS	ns1.alstra.org.
