@@ -1,7 +1,7 @@
-$ORIGIN ngo.us.
+ $ORIGIN ngo.us.
 $TTL 86400
 ; SOA Records
-@		IN	SOA	ns2.afraid.org. admin.nic.ngo.us. YYYYMMDDNN 86400 10800 3600000 3600
+@		IN	SOA	ns2.afraid.org. admin.nic.ngo.us.<ctrl3348>MMDDNN 86400 10800 3600000 3600
 
 ; ========== BEGIN REGISTRY SERVICES ==========
 
@@ -79,6 +79,13 @@ health	86400	IN	NS	ns1.he.net.
 health	86400	IN	NS	ns2.he.net.
 health	86400	IN	NS	ns3.he.net.
 health	86400	IN	NS	ns4.he.net.
+
+; BeoData
+; Kontakt email: isforlawyers@gmail.com
+shaima 86400 IN NS ns1.mysecurecloudhost.com.
+shaima 86400 IN NS ns2.mysecurecloudhost.com.
+shaima 86400 IN NS ns3.mysecurecloudhost.com.
+shaima 86400 IN NS ns4.mysecurecloudhost.com.
 
 ; ssangyongsports
 ; Submitted by Peter <peter@ssangyongsports.eu.org>
