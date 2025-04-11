@@ -42,6 +42,11 @@ aihe 86400 IN NS ignacio.ns.cloudflare.com.
 xera 86400 IN NS dave.ns.cloudflare.com.
 xera 86400 IN NS irena.ns.cloudflare.com.
 
+; DragonFamily
+; Submitted by networking team <xiawenlong@duck.com>
+kusa 86400 IN NS jacqueline.ns.cloudflare.com.
+kusa 86400 IN NS olof.ns.cloudflare.com.
+
 ; Freefall Softworks Archival Organization (FSARO)
 ; Submitted by the FSARO development team <fsaro@proton.me>
 fsaro 86400 IN NS drake.ns.cloudflare.com.
