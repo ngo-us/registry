@@ -62,11 +62,6 @@ opentube	86400	IN	NS	dns4.p08.nsone.net.
 pics	86400	IN	NS	dns2.p08.nsone.net.
 pics	86400	IN	NS	dns3.p08.nsone.net.
 
-; N.L.E-Telephone Number Query System
-; Submitted by nlep <love.pulga@gmail.ocm>
-nlep.ngo.us. 86400 IN NS savanna.ns.cloudflare.com.
-nlep.ngo.us. 86400 IN NS trey.ns.cloudflare.com.
-
 ; PAUSE International
 ; Submitted by PAUSE International <pauseint@proton.me>
 pause	86400	IN	NS	ns5.private-nameserver.net.
@@ -101,4 +96,7 @@ ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
 ; ========== END ORGANIZATIONS ================
 
-
+; N.L.E-Telephone Number Query System
+; Submitted by nlep <love.pulga@gmail.ocm>
+nlep.ngo.us. 86400 IN NS savanna.ns.cloudflare.com.
+nlep.ngo.us. 86400 IN NS trey.ns.cloudflare.com.
