@@ -95,4 +95,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Stalwart mail service
+; Submitted by xotnet <sip-concur-dealt@duck.com>
+lol 86400 IN NS desi.ns.cloudflare.com.
+lol 86400 IN NS ram.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
