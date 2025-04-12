@@ -95,4 +95,13 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Youthika NGO
+; Submitted by Dheeraj <me@sdheeraj.is-cool.dev>
+youthika	86400	IN	NS	athena.ns.cloudflare.com.
+youthika	86400	IN	NS	dane.ns.cloudflare.com.
+ythika	86400	IN	NS	athena.ns.cloudflare.com.
+ythika	86400	IN	NS	dane.ns.cloudflare.com.
+youthika-ngo	86400	IN	NS	athena.ns.cloudflare.com.
+youthika-ngo	86400	IN	NS	dane.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
